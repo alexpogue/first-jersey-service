@@ -8,7 +8,7 @@ Tested with the following configuration:
 
 ## Compiling
 
-Do `mvn clean install` to create a first-jersey-service.war file in the target/ directory.
+Do `mvn clean package` to create a first-jersey-service.war file in the target/ directory.
 
 ## Running
 
